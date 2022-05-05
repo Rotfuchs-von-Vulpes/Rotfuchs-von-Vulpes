@@ -12,6 +12,7 @@ I'm Vulpes 🦊, I'm 18 years old and I started programming as a hobby, I really
 
 - GLSL (fragments shaders)
 - Compilers and Interpreters
+- Modding for [minetest](https://www.minetest.net/)
 - C and Python in spare time
 
 ## ⚡ My top languages
