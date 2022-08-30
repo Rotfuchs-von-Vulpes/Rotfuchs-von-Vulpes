@@ -1,5 +1,7 @@
 # 👋 Hi there
 
+![ProfileViews](https://komarev.com/ghpvc/?username=Rotfuchs-von-Vulpes1619&color=blueviolet&style=flat-square&label=Profile+Views)
+
 I'm Vulpes 🦊, I'm 19 years old and I started programming as a hobby, I really like math, physics, games and simulations in general. I make native programs, with frameworks, and websites.
 
 - 🏫 high school and technical education
