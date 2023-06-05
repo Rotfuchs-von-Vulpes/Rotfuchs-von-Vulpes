@@ -2,9 +2,9 @@
 
 I'm Vulpes 🦊, I'm 19 years old and I started programming as a hobby, I really like math, physics, games and simulations in general. I make native programs, with frameworks, and websites.
 
-- 🏫 high school and technical education
+- 🏫 University (chemistry)
 - 📫 How to reach me: Rotfuchs#3759 (discord), [@DerFuchsArts (Twitter)](https://twitter.com/derfuchsarts), [derfuchspa (Pinterest)](https://br.pinterest.com/derfuchspa/)
-- 🤔 looking for help getting a job
+- 🤔 Looking for help getting a job
 - ⚡ Fun fact: I really like foxes!
 - 🇧🇷  Brasil!
 
