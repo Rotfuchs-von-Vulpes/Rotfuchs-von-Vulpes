@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Vulpes 🦊, I'm 19 years old and I started programming as a hobby, I really like math, physics, games and simulations in general. I make native programs, with frameworks, and websites.
+I'm Vulpes 🦊, I'm 20 years old and I started programming as a hobby, I really like math, physics, games and simulations in general. I make native programs, with frameworks, and websites.
 
 - 🏫 University (chemistry)
 - 📫 How to reach me: rotfuchs_von_vulpes (discord), [@DerFuchsArts (Twitter)](https://twitter.com/derfuchsarts), [derfuchspa (Pinterest)](https://br.pinterest.com/derfuchspa/)
