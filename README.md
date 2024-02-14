@@ -4,7 +4,6 @@ I'm Vulpes 🦊, I'm 20 years old and I started programming as a hobby, I really
 
 - 🏫 University (chemistry)
 - 📫 How to reach me: rotfuchs_von_vulpes (discord), [derfuchspa (Pinterest)](https://br.pinterest.com/derfuchspa/)
-- 🤔 Looking for help getting a job
 - ⚡ Fun fact: I really like foxes!
 - 🇧🇷  Brasil!
 
@@ -13,7 +12,7 @@ I'm Vulpes 🦊, I'm 20 years old and I started programming as a hobby, I really
 - GLSL (fragments shaders)
 - Minecraft shaders
 - Compilers and Interpreters
-- Modding for [minetest](https://www.minetest.net/)
+- Modding for [minetest](https://www.minetest.net/) and minecraft
 - C and Python in spare time
 
 ## ⚡ My top languages
