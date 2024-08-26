@@ -9,9 +9,9 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 
 ## 🌱 What am I currently learning?
 
-- GLSL (fragments shaders)
+- Computer graphics 
 - Minecraft shaders
-- Compilers and Interpreters
+- Odin programming language
 - Modding for [minetest](https://www.minetest.net/) and minecraft
 - C and Python in spare time
 
