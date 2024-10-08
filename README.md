@@ -40,7 +40,3 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![ExpressJs](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MONGODB-323330?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-
-# 🎶 What's Vulpes Doing right now?
-
-![Spotify songs](https://spotify-recently-played-readme.vercel.app/api?user=e1rp5gewwymtg24e51vgyn3ze&count=10)
