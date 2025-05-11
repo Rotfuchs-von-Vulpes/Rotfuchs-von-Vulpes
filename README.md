@@ -12,7 +12,7 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 - Computer graphics 
 - Minecraft shaders
 - Odin programming language
-- Modding for [minetest](https://www.minetest.net/) and minecraft
+- Modding for [luati](https://www.luanti.org/) and minecraft
 
 ## ⚡ My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotfuchs-von-Vulpes&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
