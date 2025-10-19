@@ -21,18 +21,19 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 # 🚀 My Skills
 
 ## 📚 Languages
-[![Odin](https://img.shields.io/badge/ODIN-000000?style=for-the-badge&logo=odin)](https://odin-lang.org/)
+[![Odin](https://img.shields.io/badge/ODIN-0d1f33?style=for-the-badge&logo=odin)](https://odin-lang.org/)
+[![Go](https://img.shields.io/badge/GO-002b36?style=for-the-badge&logo=go)](https://odin-lang.org/)
 [![Lua](https://img.shields.io/badge/LUA-000081?style=for-the-badge&logo=lua)](http://www.lua.org/)
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/CSHARP-390091?style=for-the-badge&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/CSHARP-390091?style=for-the-badge&logoColor=ffffff&logo=sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 ## 👀 Front-end
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![VUE.js](https://img.shields.io/badge/VUE.JS-202530?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/VUETIFY-1572B6?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com/en/)
 
