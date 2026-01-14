@@ -15,8 +15,8 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 - Modding for [luati](https://www.luanti.org/) and minecraft
 
 ## ⚡ My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotfuchs-von-Vulpes&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![stats](https://github-readme-stats.vercel.app/api?username=Rotfuchs-von-Vulpes&show_icons=true&locale=en&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-mu-six.vercel.app/api/top-langs/?username=Rotfuchs-von-Vulpes&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://stats-mu-six.vercel.app/api?username=Rotfuchs-von-Vulpes&show_icons=true&locale=en&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🚀 My Skills
 
