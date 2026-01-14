@@ -28,7 +28,6 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/CSHARP-390091?style=for-the-badge&logoColor=ffffff&logo=sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 ## 👀 Front-end
