@@ -11,7 +11,6 @@ I'm Vulpes 🦊, I'm 21 years old and I started programming as a hobby, I really
 
 - Computer graphics 
 - Minecraft shaders
-- Odin programming language
 - Modding for [luati](https://www.luanti.org/) and minecraft
 
 ## ⚡ My top languages
